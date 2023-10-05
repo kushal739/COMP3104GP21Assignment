@@ -15,6 +15,15 @@
 
 ### (3) KUSHAL PATEL
 
+- Student Id :- 101378751
+- Email Id :- kushal.patel@georgebrown.ca
+
+
+
+-[101378751_gb](101378751_gb.txt) This file will contain information about George Brown college.
+-[101378751_sdlc](101380593_sdlc.txt) - This file will contain details about important of learning DevOps engineer in software development cycle.
+-[101378751_sdlc](101380593_devops.txt) - This file will contain details about important of learning DevOps .
+
 ### (4) ABHISHEK SINGHRIA
 
 ###
