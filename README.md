@@ -18,6 +18,11 @@
 
 -[101378751_gb](101378751_gb.txt) This file will contain information about George Brown college.
 
+-[101378751_sdlc](101378751_sdlc.txt) This file will contain information about SDLC.
+
+
+-[101378751_devops](101378751_devops.txt) This file will contain information about DEVOPS.
+
 ### (4) ABHISHEK SINGHRIA
 
 ###
