@@ -1,1 +1,5 @@
 # This file have information about SDLC
+
+- The Software Development Life Cycle (SDLC) is a structured 
+process that enables the production of high-quality, low-cost software,
+ in the shortest possible production time. 
