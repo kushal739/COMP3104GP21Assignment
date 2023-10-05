@@ -4,3 +4,5 @@ automate and integrate the processes between software development and IT teams.
  It emphasizes team empowerment, cross-team communication and collaboration, and 
  technology automation.
 
+-- A DevOps team includes developers and IT operations working collaboratively
+ throughout the product lifecycle
