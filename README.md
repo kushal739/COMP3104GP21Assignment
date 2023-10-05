@@ -13,6 +13,11 @@
 
 ### (3) KUSHAL PATEL
 
+- Student Id :- 101378751
+- Email Id :- kushal.patel@georgebrown.ca
+
+-[101378751_gb](101378751_gb.txt) This file will contain information about George Brown college.
+
 ### (4) ABHISHEK SINGHRIA
 
 ###
